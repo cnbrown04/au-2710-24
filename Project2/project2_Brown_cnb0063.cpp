@@ -2,6 +2,9 @@
  Auburn ID: cnb0063
  Filename: project2_Brown_cnb0063.cpp
  To compile on JetBrains: Use the compile button in the top right of the window.
+ To compile using Auburn Server: Login to the auburn server after uploading the file
+    and then use the command g++ project2_Brown_cnb0063.cpp -o project2 and then
+    use the command ./project2 to execute the compiled program.
 
  Sources: cplusplus.com (https://cplusplus.com/reference/) (https://cplusplus.com/reference/iomanip/)*/
 
