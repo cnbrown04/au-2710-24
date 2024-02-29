@@ -1,9 +1,9 @@
-// Name: Caleb Brown
-// Auburn ID: cnb0063
-// Filename: project2_Brown_cnb0063.cpp
-// To compile on JetBrains: Use the compile button in the top right of the window.
+/* Name: Caleb Brown
+ Auburn ID: cnb0063
+ Filename: project2_Brown_cnb0063.cpp
+ To compile on JetBrains: Use the compile button in the top right of the window.
 
-// Sources: cplusplus.com (https://cplusplus.com/reference/) (https://cplusplus.com/reference/iomanip/)
+ Sources: cplusplus.com (https://cplusplus.com/reference/) (https://cplusplus.com/reference/iomanip/)*/
 
 # include <iostream>
 # include <cstdlib>
@@ -12,7 +12,7 @@
 
 using namespace std;
 
-// Initializing functions.
+/* Initializing functions. */
 bool at_least_two_alive(bool A_alive, bool B_alive, bool C_alive);
 void test_at_least_two_alive();
 
@@ -44,7 +44,7 @@ int cWins; // Amount of wins for Charlie.
 int aWins1; // Aaron wins for first round before they get reset for second round.
 
 int main() {
-    srand(time(nullptr)); // Random time.
+    srand(time(0)); // Random time.
 
     test_at_least_two_alive();
     pause(); // Pause() is the Press any key to continue function.
@@ -80,7 +80,7 @@ int main() {
         addWinner(A, B, C); // Only runs after only one person is alive. Adds a win to whomever is alive.
     }
 
-    // Self explanatory.
+    /* Self-explanatory. */
     cout << "Aaron won " << aWins << "/" << finalI << " duels or " << ((float)aWins / (float)finalI) * 100 << "%\n"; // Percentage calculation with floats.
     cout << "Bob won " << bWins << "/" << finalI << " duels or " << ((float)bWins / (float)finalI) * 100 << "%\n";
     cout << "Charlie won " << cWins << "/" << finalI << " duels or " << ((float)cWins / (float)finalI) * 100 << "%\n";
@@ -114,7 +114,7 @@ int main() {
     cout << "Bob won " << bWins << "/" << finalI << " duels or " << ((float)bWins / (float)finalI) * 100 << "%\n";
     cout << "Charlie won " << cWins << "/" << finalI << " duels or " << ((float)cWins / (float)finalI) * 100 << "%\n";
 
-    // If Aaron has more wins, that strategy wins.
+    /* If Aaron has more wins, that strategy wins. */
     if (aWins > aWins1) {
         cout << "\nStrategy 2 is better than Strategy 1";
     } else {
@@ -183,8 +183,8 @@ void Charlie_shoots(bool& A_alive, bool& B_alive) {
     }
 }
 
-// Only change made with this function from the other functions is
-// Aaron intentionally misses (doesn't take) his first shot.
+/* Only change made with this function from the other functions is
+ Aaron intentionally misses (doesn't take) his first shot. */
 void Aaron_shoots2(bool& B_alive, bool& C_alive) {
     int random = rand()%100;
     if (firstShot == false) {
@@ -202,7 +202,7 @@ void Aaron_shoots2(bool& B_alive, bool& C_alive) {
     }
 }
 
-// Adds count to whomever was still alive.
+/* Adds count to whomever was still alive. */
 void addWinner(bool A, bool B, bool C) {
     if (A) {
         aWins++;
@@ -242,9 +242,9 @@ void test_at_least_two_alive(void) {
     cout << "Case passed ...\n";
 }
 
-// To be completely honest, there was no way I could test
-// these next functions without altering the shoot functions
-// and that wasn't in the assignment that I could.
+/* To be completely honest, there was no way I could test
+ these next functions without altering the shoot functions
+ and that wasn't in the assignment that I could. */
 void testAaron1() {
     cout << "Unit Testing 2: Function Aaron_shoots1(Bob_alive, Charlie_alive)\n";
     cout << "Case 1: Bob alive, Charlie alive\n";
@@ -286,7 +286,7 @@ void testAaron2() {
     cout << "Aaron is shooting at Bob.\n";
 }
 
-// Pauses the program and waits for further input.
+/* Pauses the program and waits for further input. */
 void pause() {
     cout << "Press any key to continue...";
     cin.ignore().get(); //Pause Command for Linux Terminal
