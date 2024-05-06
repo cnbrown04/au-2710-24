@@ -1,0 +1,1478 @@
+Script started on 2024-04-30 11:49:48-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;helix@CalebsPC: ~/au-2710-24/FinalExamProject[01;32mhelix@CalebsPC[00m:[01;34m~/au-2710-24/FinalExamProject[00m$ exit./FinalExam_Brown_cnb0063.exe[K
+[?2004lBanner id: 904268225
+Philosopher 0 is thinking.
+Philosopher 1 is thinking.
+Philosopher 2 is thinking.
+Philosopher 3 is thinking.
+Philosopher 4 is thinking.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 0 is hungry.
+Philosopher 3 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 1 is thinking.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 1 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 2 is hungry.
+Philosopher 3 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 is thinking.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 1 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 0 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 2 is hungry.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 0 is hungry.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is thinking.
+Philosopher 1 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 1.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 4 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 1 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 4 is hungry.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 is hungry.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 2 is hungry.
+Philosopher 1 put down Chopstick 1.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 1 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 is hungry.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 2.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 0 is hungry.
+Philosopher 4 put down Chopstick 4.
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 3 put down Chopstick 3.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 3 put down Chopstick 4.
+Philosopher 3 is thinking.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 1 picked up Chopstick 1, can NOT eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 4 put down Chopstick 4.
+Philosopher 4 put down Chopstick 0.
+Philosopher 4 is thinking.
+Philosopher 0 is hungry.
+Philosopher 0 picked up Chopstick 0, can NOT eat with one chopstick.
+Philosopher 4 is hungry.
+Philosopher 4 picked up Chopstick 4, can NOT eat with one chopstick.
+Philosopher 3 is hungry.
+Philosopher 2 put down Chopstick 2.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 put down Chopstick 3.
+Philosopher 2 is thinking.
+Philosopher 3 picked up Chopstick 3, can NOT eat with one chopstick.
+Philosopher 1 put down Chopstick 1.
+Philosopher 1 put down Chopstick 2.
+Philosopher 1 is thinking.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 is hungry.
+Philosopher 2 picked up Chopstick 2, can NOT eat with one chopstick.
+Philosopher 0 put down Chopstick 0.
+Philosopher 0 put down Chopstick 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+^C
+[?2004h]0;helix@CalebsPC: ~/au-2710-24/FinalExamProject[01;32mhelix@CalebsPC[00m:[01;34m~/au-2710-24/FinalExamProject[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-30 11:50:56-05:00 [COMMAND_EXIT_CODE="130"]
